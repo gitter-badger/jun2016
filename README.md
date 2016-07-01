@@ -1,5 +1,7 @@
 # HACKATHON BNE :dancer: :es: :dancer: :es: :dancer:
 
+[![Join the chat at https://gitter.im/HackathonBNE/jun2016](https://badges.gitter.im/HackathonBNE/jun2016.svg)](https://gitter.im/HackathonBNE/jun2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Objetivo difusión de la Danza Española y el Ballet Nacional de España entre los niños y niñas de 8 a 12 años.
 
 ## Notas de la charla de Antonio Najarro
