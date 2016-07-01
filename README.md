@@ -6,17 +6,17 @@ Objetivo difusión de la Danza Española y el Ballet Nacional de España entre l
 
 Características de la Danza Española que debería/podría incluir un videojuego:
 
-Las cuatro ramas de la Danza Española:
-    * folklore
-    * flamenco
-    * estilizada
+Las cuatro ramas de la Danza Española:  
+    * folklore  
+    * flamenco  
+    * estilizada  
     * danza bolera
     
-Valores de la Danza Española en los que debe incidir el juego:
-    * profesión joven
-    * constancia
-    * decisiones tempranas
-    * preparación técnica
+Valores de la Danza Española en los que debe incidir el juego:  
+    * profesión joven  
+    * constancia  
+    * decisiones tempranas  
+    * preparación técnica  
     * expresión
     
 Valores del Ballet Nacional de España
